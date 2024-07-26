@@ -206,10 +206,11 @@ li:not(:first-child) span{
 
 .contactbox{
   background: rgba(239, 239, 208,0.6);
-  width: 80vw;
+  width: 70vw;
   display: flex;
   padding: 1rem;
   align-items: center;
+  justify-content: center;
   border-radius: 0.6rem;
   box-shadow: 0 0.6rem 1rem rgba(0,0,0,0.5);
 }
